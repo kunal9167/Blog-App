@@ -1,3 +1,19 @@
+#test{
+    height: 100vm !important;
+}
+
 i.icon{
-    font-size: 2em
+    font-size: 2em;
+}
+
+.main.container{
+    margin-top: 7em;
+}
+
+.ui.fixed.menu{
+    top: 0;
+    left: 0;
+    right: auto;
+    position: sticky;
+    bottom: auto;
 }
